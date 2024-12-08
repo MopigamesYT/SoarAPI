@@ -1,0 +1,18 @@
+
+# Environment variables
+.env
+
+# Logs
+*.log
+error.log
+combined.log
+
+# Dependencies
+node_modules/
+
+# Database files (contains sensitive user data)
+usersDb.json
+
+# IDE files
+.vscode/
+.idea/
