@@ -7,7 +7,6 @@ WebSocket-based API for SoarClient premium user management.
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Copy `.env.example` to `.env` and configure your settings
-4. Initialize database: `npm run init`
 5. Start the server: `npm start`
 
 ## Environment Variables
